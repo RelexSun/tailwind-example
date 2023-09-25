@@ -12,7 +12,7 @@ const Hero = () => {
         <div className="flex justify-center py-4">
           <p className="md:text-5xl sm:text-4xl font-bold">SUN is</p>
           <ReactTypingEffect
-            className="md:text-5xl sm:text-4xl font-bold md:pl-4 pl-2 text-gray-600"
+            className="md:text-5xl sm:text-4xl font-bold md:pl-4 pl-1 text-gray-600"
             text={["Hot", "Sexy", "Cute", "Loy", "Kur oy Sl"]}
             typingSpeed={120}
             eraseSpeed={100}
